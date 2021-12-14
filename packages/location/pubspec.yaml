@@ -33,6 +33,7 @@ dependencies:
       url: git://github.com/dreambitio/flutterlocation.git
       ref: release/3.2.4
       path: location_web/
+  meta: ^1.0.5
 dev_dependencies:
   async: ^2.5.0
   build_runner: ^1.11.5
